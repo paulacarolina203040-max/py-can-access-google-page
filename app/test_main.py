@@ -1,5 +1,4 @@
 from unittest.mock import patch
-import pytest
 
 from app.main import can_access_google_page
 
